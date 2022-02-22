@@ -1,4 +1,8 @@
 this is a empty file
+<<<<<<< HEAD
 this is first line 
 this is second line
 
+=======
+hello every one how are you
+>>>>>>> 13d06fa9e0ccfe0b86d7c08116e376f765fc3d9e
